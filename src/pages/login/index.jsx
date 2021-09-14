@@ -42,7 +42,7 @@ function Index() {
                         </div>
                     </Col>
                     <Col md={5} xs={12}>
-                        <div className="d-card card border-0 px-4 py-5">
+                        <div className="d-card card px-4 py-5">
                             <Row className="justify-content-center mb-5">
                                 <Image src="https://via.placeholder.com/1000" className="logo-company" roundedCircle />
                             </Row>
