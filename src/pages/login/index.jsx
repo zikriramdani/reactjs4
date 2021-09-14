@@ -55,7 +55,7 @@ class Index extends Component {
                                         />
                                     </Form.Group>
                                     <Button variant="primary" type="submit" size="lg" className="w-100 mb-3">
-                                        Login
+                                        Sign In
                                     </Button>
                                     <Form.Group className="mb-3" controlId="formBasicCheckbox">
                                         <Form.Check type="checkbox" label="Remember Me" />
