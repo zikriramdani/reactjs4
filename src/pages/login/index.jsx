@@ -43,9 +43,9 @@ function Index() {
                     </Col>
                     <Col md={5} xs={12}>
                         <div className="d-card card px-4 py-5">
-                            <Row className="justify-content-center mb-5">
+                            <div className="d-flex justify-content-center mb-5">
                                 <Image src="https://via.placeholder.com/1000" className="logo-company" roundedCircle />
-                            </Row>
+                            </div>
                             <Form>
                                 <Form.Group className="mb-3" controlId="formBasicEmail">
                                     <Form.Control type="email" placeholder="Username / Email" />
