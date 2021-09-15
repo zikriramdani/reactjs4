@@ -35,7 +35,7 @@ function Index() {
                                         <Image src="https://via.placeholder.com/1000" className="logo-footer" />
                                     </div>
                                     <div className="align-items-center d-flex">
-                                        <h6 className="mb-0">Managed by TUJJU</h6>
+                                        <h6 className="mb-0 text-white-50">Managed by TUJJU</h6>
                                     </div>
                                 </div>
                             </div>
